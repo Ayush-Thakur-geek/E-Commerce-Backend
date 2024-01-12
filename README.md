@@ -2,10 +2,10 @@
 
 This is a microservices project that includes the following services:
 
-- [OrderService](https://github.com/Ayush-Thakur-geek/OrderService)
-- [ProductService](https://github.com/Ayush-Thakur-geek/ProductService)
-- [ServiceRegistry](https://github.com/Ayush-Thakur-geek/ServiceRegistry)
-- [ConfigServer](https://github.com/Ayush-Thakur-geek/ConfigServer)
+- [OrderService](https://github.com/Ayush-Thakur-geek/Product-Service-Backend)
+- [ProductService](https://github.com/Ayush-Thakur-geek/Product-Service-Backend)
+- [ServiceRegistry](https://github.com/Ayush-Thakur-geek/Service-Registry)
+- [ConfigServer](https://github.com/Ayush-Thakur-geek/Configuration--Config-Server)
 
 ## Getting Started
 
