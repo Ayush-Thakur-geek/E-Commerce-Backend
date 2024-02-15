@@ -7,6 +7,7 @@ This is a microservices project that includes the following services:
 - [PaymentService](https://github.com/Ayush-Thakur-geek/Payment-Service-Backend)
 - [ServiceRegistry](https://github.com/Ayush-Thakur-geek/Service-Registry)
 - [ConfigServer](https://github.com/Ayush-Thakur-geek/Configuration--Config-Server)
+- [ApiGateway](https://github.com/Ayush-Thakur-geek/API-Gateway.git)
 
 ## Getting Started
 
